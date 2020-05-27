@@ -121,6 +121,8 @@ echo "</li>";
 echo "<li>";
 echo "SQL - Stands for Structural Query Language<br>";
 echo "</li>";
+
+echo "</ul>";
   
 
 
